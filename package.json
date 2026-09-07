@@ -2,6 +2,7 @@
   "name": "p10",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://2024-bca-a-harish.github.io/rjs-p10/",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
